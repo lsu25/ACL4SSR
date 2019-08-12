@@ -1595,6 +1595,8 @@
 
 # Tencent
 (^|\.)qq\.com$
+(^|\.)music\.tc\.qq\.com$
+(^|\.)stat\.y\.qq\.com$
 (^|\.)qqmail\.com$
 (^|\.)soso\.com$
 (^|\.)gtimg\.com$
